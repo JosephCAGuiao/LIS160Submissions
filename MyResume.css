@@ -1,0 +1,75 @@
+body
+{
+background-color: #E9E7EA;
+}
+
+p1
+{
+margin: 20px 0 20px 0;
+font-weight: light;
+font-family: Montserrat Semi-Bold, sans-serif;
+font-size: 30px;
+margin-left: 15px;
+}
+
+
+ul
+{
+font-family: Montserrat, sans-serif;
+font-size: 14px;
+margin-left: 30px;
+}
+
+hr
+{
+height: 4px;
+width: 145px;
+background-color: black;
+margin-left: 0px;
+}
+
+h4
+{
+font-family: Montserrat Semi-Bold, sans-serif;
+font-size: 18px;
+margin-left: 20px;
+}
+
+p5
+{
+color: #004AAD;
+font-family: Montserrat Semi-Bold, sans-serif;
+font-size: 18px;
+}
+
+p4
+{
+color: #004AAD;
+font-family: Montserrat Semi-Bold, sans-serif;
+font-size: 18px;
+margin-left: 40px;
+
+}
+
+
+p2
+{
+font-family: Montserrat, sans-serif;
+font-size: 14px;
+margin-left: 65px;
+}
+
+h5
+{
+margin-left: 18px;
+font-family: Montserrat, sans-serif;
+}
+
+img
+{
+src="https://www.facebook.com/photo?fbid=5221723034531842&set=a.144624955575034";
+border-radius: 50%;
+height:150px;
+margin-top: 25px;
+margin-left: 25px;
+}
